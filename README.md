@@ -1,16 +1,14 @@
-### Hi there 👋
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jhersonmedina/)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://jhersonmedina.github.io/portfolio/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jhersonmedina2505@gmail.com)
 
-<!--
-**JhersonMedina/JhersonMedina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About
 
-Here are some ideas to get you started:
+I'm a motivated, passionate and disciplined student. Looking to make impact while making people's life better. Interested in competitive programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on learn and improve at competitve programming
+- 🌱 I’m currently learning Rust
+- 😄 Pronouns: He/Him
+
+![Jherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhersonMedina&show_icons=true&theme=gruvbox)
+
