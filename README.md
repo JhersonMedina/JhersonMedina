@@ -7,11 +7,12 @@
 
 # About
 
-I'm a motivated, passionate and disciplined student. Looking to make impact while making people's life better. Interested in competitive programming.
+I'm a motivated, passionate and disciplined student. Looking to make impact while making people's life better. Interested in software engineer and competitive programming.
 
-- 🔭 I’m currently working on learn and improve at competitve programming
-- 🌱 I’m currently learning Rust
-- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on learning and improving my software engineering skills.
+- 💻 Actively competing in programming contests and learning algorithms and data structures.
+- 📖 I’m currently learning Rust and software architecture.
+- 😄 Pronouns: He/Him.
 
 ![Jherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhersonMedina&show_icons=true&theme=gruvbox)
 
