@@ -10,7 +10,7 @@ I'm a motivated, passionate and disciplined student. Looking to make impact whil
 
 - 🔭 I’m currently working on learning and improving my software engineering skills.
 - 💻 Actively competing in programming contests and learning algorithms and data structures.
-- 📖 I’m currently studying computanional biology.
+- 📖 I’m currently studying computational biology.
 - 😄 Pronouns: He/Him.
 
 ![Jherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhersonMedina&show_icons=true&theme=gruvbox)
