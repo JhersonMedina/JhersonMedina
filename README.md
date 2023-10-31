@@ -6,11 +6,11 @@
 
 # About
 
-I'm a motivated, passionate and disciplined student. Looking to make impact while making people's life better. Interested in science, competitive programming and software engineer.
+As an aspiring scientist, software engineer, and passionate advocate for innovation, I am dedicated to creating a positive impact and helping people. With a strong background in software development and programming competitions, I am eager to explore new frontiers in both technology and science to make a meaningful difference.
 
-- 🔭 I’m currently working on learning and improving my software engineering skills.
-- 💻 Actively competing in programming contests and learning algorithms and data structures.
-- 📖 I’m currently studying computational biology.
+- 🔬 I’m currently studying MSc in computational biology at Universidad de los Andes.
+- 🏆 Actively competing in programming contests and learning algorithms and data structures.
+- 🧬 I’m currently working on multiple sequence alingment algorithms.
 - 😄 Pronouns: He/Him.
 
 ![Jherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhersonMedina&show_icons=true&theme=gruvbox)
