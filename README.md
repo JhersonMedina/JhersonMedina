@@ -6,11 +6,10 @@
 
 # About
 
-As an aspiring scientist, software engineer, and passionate advocate for innovation, I am dedicated to creating a positive impact and helping people. With a strong background in software development and programming competitions, I am eager to explore new frontiers in both technology and science to make a meaningful difference.
+I'm Jherson, an aspiring scientist currently pursuing a Master's in Computational Biology following my undergraduate studies in Computer Engineering. My passion lies in developing algorithms and computational methods to tackle complex biological questions. Thriving on problem-solving, I am eager to contribute to innovative research at the intersection of technology and biology.
 
 - 🔬 I’m currently studying MSc in computational biology at Universidad de los Andes.
 - 🏆 Actively competing in programming contests and learning algorithms and data structures.
-- 🧬 I’m currently working on multiple sequence alingment algorithms.
 - 😄 Pronouns: He/Him.
 
 ![Jherson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JhersonMedina&show_icons=true&theme=gruvbox)
